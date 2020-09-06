@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 运行说明 - 数据库
 1. 项目的数据保存在mysql中,先保证打开mysql
 
@@ -872,3 +873,7 @@ baseUrl:'http://localhost'
 
 # Test
 # Test
+=======
+# bignews
+大事件项目
+>>>>>>> 17cc7c552355fa81f7468cb6b4ad89087a032654
